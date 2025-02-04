@@ -1,3 +1,10 @@
-title: Neural Network Log Monitoring
-description: Learning patterns in logs for anomaly detection using neural networks.
 theme: minima
+title: Neural Network Log Monitoring
+description: Learning from logs to detect anomalies.
+show_excerpts: true
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+  - about.md
