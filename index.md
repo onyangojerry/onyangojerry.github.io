@@ -5,7 +5,7 @@ title: Neural Network Log Monitoring
 
 # 🔍 Neural Network Log Monitoring
 
-### A project by Jerry
+# A project by Jerry
 
 ## Overview
 This project aims to develop a **neural network** that learns from logs stored in a database. The model will help **IT admins** detect anomalies and gain insights through a **dashboard**.
