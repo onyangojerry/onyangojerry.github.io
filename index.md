@@ -33,4 +33,4 @@ Each phase is crucial for developing an effective neural network:
 ✅ Experiment with **LSTMs** and **CNNs** for anomaly detection.  
 ✅ Develop an **interactive dashboard** to visualize anomalies.  
 
-💡 **Stay tuned for updates!**
+💡 **Stay tuned for updates! 🐐**
